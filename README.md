@@ -1,3 +1,4 @@
+AbdulElah Othman Gwaith
 # pgjwt
 PostgreSQL implementation of [JSON Web Tokens](https://jwt.io/)
 
